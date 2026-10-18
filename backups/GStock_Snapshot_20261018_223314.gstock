@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "version": "3.0.0",
+    "exported_at": "2026-10-18T22:33:14.859Z",
+    "exported_by": "founder",
+    "sha256_checksum": "b4f856a330dc9b1a9cfedee08ef8020a6ef84d806ea8265731dffbe75cdd20aa",
+    "records_summary": {
+      "products_count": 12,
+      "sales_count": 1,
+      "purchases_count": 0,
+      "cash_transactions_count": 2
+    }
+  },
+  "version": "3.0.0",
+  "system": "G.STOCK-Franchise / AFLOU ERP",
+  "exported_at": "2026-10-18T22:33:14.859Z",
+  "exported_by": "founder",
+  "operational_data": {
+    "products": [
+      {
+        "id": "744a3946-2039-4064-be63-de52bdb8e478",
+        "prd_ref": "REF-MKT-01",
+        "design": "مثقاب كهربائي ماكيتا 710 واط (Makita HP1630)",
+        "qty": 13,
+        "cost_price": 8500,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:32:34"
+      },
+      {
+        "id": "7e036a6f-a9e5-4e4f-bb2a-a5b109a0c7a7",
+        "prd_ref": "REF-BSH-02",
+        "design": "صاروخ جلخ بوش 115 ملم 750 واط (Bosch GWS 750)",
+        "qty": 17,
+        "cost_price": 7200,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:32:34"
+      },
+      {
+        "id": "82ee517f-1922-47b2-8476-ceca45f640fa",
+        "prd_ref": "REF-STN-03",
+        "design": "شريط قياس ستانلي 5 متر مغناطيسي (Stanley)",
+        "qty": 45,
+        "cost_price": 650,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "905d74c1-52a4-4be2-ba49-b767ba3c8e66",
+        "prd_ref": "REF-TTL-04",
+        "design": "طقم مفاتيح وحبات توتال 142 قطعة كروم (Total Tools)",
+        "qty": 8,
+        "cost_price": 14800,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "99455301-d306-4b11-8797-9a6fd1e676eb",
+        "prd_ref": "REF-ING-05",
+        "design": "مفك براغي لاسلكي إنجكو 20 فولت بطاريتين (Ingco)",
+        "qty": 12,
+        "cost_price": 9400,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "87b1489a-fb61-408b-ae30-18530fe4551e",
+        "prd_ref": "REF-SCH-06",
+        "design": "قاطع تيار كهربائي تفاضلي شنايدر 40 أمبير (Schneider)",
+        "qty": 30,
+        "cost_price": 3100,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "784bf6c2-f98a-4c7e-925a-3bb0c4ffd03c",
+        "prd_ref": "REF-LEP-07",
+        "design": "ميزان مائي ألومنيوم مغناطيسي 60 سم احترافي",
+        "qty": 22,
+        "cost_price": 1200,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "b65961a5-b5cc-4bc3-a398-04b40777250f",
+        "prd_ref": "REF-WLD-08",
+        "design": "آلة لحام إنفرتر إلكترونية 200 أمبير محمولة",
+        "qty": 4,
+        "cost_price": 18500,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "64899c6a-f2de-470e-9a71-d880b4ccdb5f",
+        "prd_ref": "REF-CLP-09",
+        "design": "كماشة فك وتثبيت احترافية مقاس 8 إنش معزولة",
+        "qty": 3,
+        "cost_price": 850,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "df58d03a-d1da-4c38-98a8-202caeddedb3",
+        "prd_ref": "REF-LGT-10",
+        "design": "كشاف ليد ورشات عمل 50 واط مضاد للغبار IP65",
+        "qty": 25,
+        "cost_price": 2400,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "f291d341-db9d-4bb0-b2f2-c2904d459606",
+        "prd_ref": "REF-PVC-11",
+        "design": "أنبوب بي في سي مقوى رمادي قطر 110 ملم (4 أمتار)",
+        "qty": 50,
+        "cost_price": 1600,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "765211f2-c010-4aae-bbdb-78e86be54710",
+        "prd_ref": "REF-SLN-12",
+        "design": "مسدس سيليكون هيكل معدني ثقيل مضاد للانزلاق",
+        "qty": 1,
+        "cost_price": 750,
+        "created_at": "2026-10-18 22:27:27",
+        "updated_at": "2026-10-18 22:27:27"
+      }
+    ],
+    "sales": [
+      {
+        "id": "c6ed11c2-73cf-4223-ae9e-7f29fe8a3aa4",
+        "invoice_number": "INV-2026-00101",
+        "customer_name": "عميل نقدي",
+        "customer_phone": "",
+        "payment_type": "cash",
+        "installment_months": 1,
+        "subtotal": 18900,
+        "total_amount": 18900,
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:32:34"
+      }
+    ],
+    "sale_items": [
+      {
+        "id": "647f49ec-8afa-4d6b-b53c-987e9cc6dc4b",
+        "sale_id": "c6ed11c2-73cf-4223-ae9e-7f29fe8a3aa4",
+        "product_id": "744a3946-2039-4064-be63-de52bdb8e478",
+        "prd_ref": "REF-MKT-01",
+        "design": "مثقاب كهربائي ماكيتا 710 واط (Makita HP1630)",
+        "qty": 1,
+        "unit_price": 10200,
+        "line_total": 10200
+      },
+      {
+        "id": "3bed77bd-e9c6-4481-bd06-fdf65315a1af",
+        "sale_id": "c6ed11c2-73cf-4223-ae9e-7f29fe8a3aa4",
+        "product_id": "7e036a6f-a9e5-4e4f-bb2a-a5b109a0c7a7",
+        "prd_ref": "REF-BSH-02",
+        "design": "صاروخ جلخ بوش 115 ملم 750 واط (Bosch GWS 750)",
+        "qty": 1,
+        "unit_price": 8700,
+        "line_total": 8700
+      }
+    ],
+    "purchases": [],
+    "purchase_items": [],
+    "inventory_movements": [
+      {
+        "id": "1ec62060-e8b9-4fe5-9a7b-7c39aef0c093",
+        "product_id": "744a3946-2039-4064-be63-de52bdb8e478",
+        "qty_change": 14,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "2d947f0c-f420-4997-b910-871a3e3c9212",
+        "product_id": "7e036a6f-a9e5-4e4f-bb2a-a5b109a0c7a7",
+        "qty_change": 18,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "5dfdfdf0-9615-449c-9721-1a3847175660",
+        "product_id": "82ee517f-1922-47b2-8476-ceca45f640fa",
+        "qty_change": 45,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "06c4def3-e33d-4ee5-af67-d76949d32c65",
+        "product_id": "905d74c1-52a4-4be2-ba49-b767ba3c8e66",
+        "qty_change": 8,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "229e0817-277b-4278-a60b-4deabaa464fb",
+        "product_id": "99455301-d306-4b11-8797-9a6fd1e676eb",
+        "qty_change": 12,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "06d36a46-acac-4f01-a95a-2c286f81846e",
+        "product_id": "87b1489a-fb61-408b-ae30-18530fe4551e",
+        "qty_change": 30,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "d426a422-1f5c-4781-9030-ff6d47947b60",
+        "product_id": "784bf6c2-f98a-4c7e-925a-3bb0c4ffd03c",
+        "qty_change": 22,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "6bc8831f-c17e-4e78-a614-6939ae827353",
+        "product_id": "b65961a5-b5cc-4bc3-a398-04b40777250f",
+        "qty_change": 4,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "be068120-ded3-46e5-b99e-ce1e2acd5bef",
+        "product_id": "64899c6a-f2de-470e-9a71-d880b4ccdb5f",
+        "qty_change": 3,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "1bb95498-8ee4-4e95-8ff5-5df4f8a840f1",
+        "product_id": "df58d03a-d1da-4c38-98a8-202caeddedb3",
+        "qty_change": 25,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "e0fcb01f-43a9-411c-88d7-cbd9d4dca6ff",
+        "product_id": "f291d341-db9d-4bb0-b2f2-c2904d459606",
+        "qty_change": 50,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "32d0d04b-301c-41de-bac2-5e0aafd69e2e",
+        "product_id": "765211f2-c010-4aae-bbdb-78e86be54710",
+        "qty_change": 1,
+        "type": "import",
+        "ref_type": "initial_seed",
+        "ref_id": "SEED-001",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "199814fd-0fd0-4b19-9d44-f9fe03a75ae0",
+        "product_id": "744a3946-2039-4064-be63-de52bdb8e478",
+        "qty_change": -1,
+        "type": "sale",
+        "ref_type": "sale_invoice",
+        "ref_id": "c6ed11c2-73cf-4223-ae9e-7f29fe8a3aa4",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:32:34"
+      },
+      {
+        "id": "f5592d28-a556-4174-99e3-413a0ab83d8f",
+        "product_id": "7e036a6f-a9e5-4e4f-bb2a-a5b109a0c7a7",
+        "qty_change": -1,
+        "type": "sale",
+        "ref_type": "sale_invoice",
+        "ref_id": "c6ed11c2-73cf-4223-ae9e-7f29fe8a3aa4",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:32:34"
+      }
+    ],
+    "cash_transactions": [
+      {
+        "id": "aca74d18-77dd-4e2b-957f-b7a399b3884a",
+        "type": "inflow",
+        "amount": 250000,
+        "date": "2026-10-18 22:27:27",
+        "source": "Capital",
+        "description": "الرصيد الافتتاحي لصندوق الخزينة الرئيسي",
+        "reference": "INIT-CASH-001",
+        "payment_method": "cash",
+        "origin": "manual",
+        "sale_id": null,
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "4b99c08b-7efd-4f1f-9e4d-c747c1fc7007",
+        "type": "inflow",
+        "amount": 18900,
+        "date": "2026-10-18 22:32:34",
+        "source": "POS Sale",
+        "description": "مبيعات نقدية - فاتورة رقم INV-2026-00101",
+        "reference": "INV-2026-00101",
+        "payment_method": "cash",
+        "origin": "automatic",
+        "sale_id": "c6ed11c2-73cf-4223-ae9e-7f29fe8a3aa4",
+        "created_by": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "created_at": "2026-10-18 22:32:34"
+      }
+    ],
+    "sequences": [
+      {
+        "name": "sales",
+        "value": 101
+      }
+    ],
+    "settings": {
+      "id": 1,
+      "store_name": "G.STOCK Franchise - AFLOU",
+      "store_phone": "029 00 11 22",
+      "store_address": "حي النصر، آفلو، الأغواط",
+      "currency": "DZD",
+      "markup_cash_percent": 20,
+      "markup_installment_percent": 40,
+      "rounding_unit": 100,
+      "low_stock_threshold": 5,
+      "language": "ar",
+      "theme": "light",
+      "price_edit_code_hash": "7e560696b3d8d62a62a28a92754d88f39a347189186ff147d3230796b3c5fbb8",
+      "price_edit_token_secret": "1b7f913062594176a1d24994dd16d09fac2269564cefeb76cf9771cd3b1540e1"
+    }
+  },
+  "accounts_data": {
+    "users": [
+      {
+        "id": "094d5256-91c0-4b21-8b8b-e1e1f53dee4d",
+        "username": "founder",
+        "password_hash": "$2b$10$uwAiK2kWBlmkd2xgvis1M.JRXgKHOHizP9GfctTX3FDISsRafHu82",
+        "role": "founder",
+        "is_active": 1,
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "2ff14bd8-6bba-4c5a-9d39-9d76aeee87e5",
+        "username": "admin",
+        "password_hash": "$2b$10$UTmxGjFsds7LV1uXUquX/.jombrPJjsLD9RBff/bWqbINSmTeEU7K",
+        "role": "admin",
+        "is_active": 1,
+        "created_at": "2026-10-18 22:27:27"
+      },
+      {
+        "id": "25e5c3f1-9249-4b93-bcee-a017125cad4f",
+        "username": "cashier",
+        "password_hash": "$2b$10$6cArX2RJX8XSvyGXsANIkOb4C67dDrBvUCMh1z5Gli1jBnkYJFV4q",
+        "role": "user",
+        "is_active": 1,
+        "created_at": "2026-10-18 22:27:27"
+      }
+    ]
+  }
+}

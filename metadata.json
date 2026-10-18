@@ -1,0 +1,6 @@
+{
+  "name": "G.STOCK-Franchise ERP",
+  "description": "نظام متكامل لإدارة المخزون، نقاط البيع، المشتريات، السيولة النقدية وحفظ الحالة محلياً وفق معمارية الخادم المطلقة وقاعدة بيانات محلية متماسكة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

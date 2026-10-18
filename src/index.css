@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  body {
+    font-family: 'Cairo', 'Amiri', 'Lemonada', 'Scheherazade', 'KacstOne', 'DejaVu Sans', sans-serif;
+  }
+  
+  /* Number tabular alignment for financial precision */
+  .font-mono-numbers {
+    font-feature-settings: "tnum" 1, "cv01" 1;
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+  
+  .print-only {
+    display: block !important;
+  }
+
+  @page {
+    size: A4;
+    margin: 12mm 15mm;
+  }
+}
+
+@media screen {
+  .print-only {
+    display: none !important;
+  }
+}
+
